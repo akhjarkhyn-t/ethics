@@ -52,7 +52,7 @@
                 <a class="nav-link" href="team.html">Манай баг</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Бидэнд холбогдох</a>
+                <a class="nav-link" href="contact.php">Бидэнд холбогдох</a>
               </li>
             </ul>
           </div>
